@@ -257,7 +257,7 @@
 }
 #es-nasic.es-nasic .es-cross__textCtn {
   padding: 5px;
-  background-image: url(/rich-content/losterfrau/nasic/assets/img/teal-bg.png);
+  background-image: url(/rich-content/Klosterfrau/nasic/assets/img/teal-bg.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 100px;
@@ -270,7 +270,7 @@
   left: -20px;
 }
 #es-nasic.es-nasic .es-cross__textCtn--kids {
-  background-image: url(/rich-content/losterfrau/nasic/assets/img/blue-bg.png);
+  background-image: url(/rich-content/Klosterfrau/nasic/assets/img/blue-bg.png);
   flex-direction: column;
   justify-content: flex-start;
   top: -40px;
@@ -374,10 +374,10 @@
 }
 @media screen and (min-width: 1241px) {
   #es-nasic.es-nasic {
-    max-width: 720px;
+    max-width: 960px;
   }
   #es-nasic.es-nasic .es-kv {
-    background-image: url(/rich-content/losterfrau/nasic/assets/img/kv-shadow.png);
+    background-image: url(/rich-content/Klosterfrau/nasic/assets/img/kv-shadow.png);
     flex-direction: row;
     align-items: flex-end;
   }
